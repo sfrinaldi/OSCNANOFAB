@@ -101,27 +101,27 @@ Multi‐pinhole mask fabrication for 1550 nm light
 * Sonic bath with acetone
 * Time —> 5 mins
 
-**SEM**
-* Image + characterize roughness 
-* Vent chamber —> "air" (top right)
-* Take sample to holder 
-* Specimen settings 
-* Following instructions 
-* Height of sample —> standard +2mm
-* Diameter of sample —> ~50mm
-* Enter size + height + "stage move"
-* "Ok"
-* EVAC —> top right
-* Beep: HV on
-* Aperture —> 
-* Condition
-* Check vacuum state 
-* HVAC ON —> top left 
-* Condition -> electron beam
-* Vaca —> 5kV, 10 kV
-* ABCC —> auto contrast 
-* Done 
-* High voltage —> off (top left) 
-* Air —> top right 
-* Open + take out sample + close door
-* EVAC —> top right 
+##SEM
+ Image + characterize roughness 
+Vent chamber —> "air" (top right)
+ Take sample to holder 
+ Specimen settings 
+ Following instructions 
+ Height of sample —> standard +2mm
+ Diameter of sample —> ~50mm
+ Enter size + height + "stage move"
+ "Ok"
+ EVAC —> top right
+ Beep: HV on
+ Aperture —> 
+ Condition
+ Check vacuum state 
+ HVAC ON —> top left 
+ Condition -> electron beam
+Vaca —> 5kV, 10 kV
+ ABCC —> auto contrast 
+ Done 
+ High voltage —> off (top left) 
+Air —> top right 
+Open + take out sample + close door
+EVAC —> top right 
