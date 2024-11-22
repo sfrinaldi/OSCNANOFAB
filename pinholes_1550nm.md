@@ -15,7 +15,7 @@ Multi‐pinhole mask fabrication for 1550 nm light
 * White switch —> vacuum off
 * Take out sample 
 
-**Use syringe to put HDMS (adhesion) on sample **
+**Use syringe to put HDMS (adhesion) on sample**
 * Solvent 
 * Use under fume hood on hotplate 
 * Put HDMS on blank slides (not the sample slides) using syringe 
@@ -101,7 +101,7 @@ Multi‐pinhole mask fabrication for 1550 nm light
 * Sonic bath with acetone
 * Time —> 5 mins
 
-##SEM
+**SEM**
  Image + characterize roughness 
 Vent chamber —> "air" (top right)
  Take sample to holder 
