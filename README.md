@@ -6,18 +6,18 @@ Tutorials of Cleanroom equipment / processes
 
 [MLA150](https://github.com/CatInTheHat-haway/OSCNANOFAB/blob/main/MLA150.md) 
 
-[Spin Coater](https://github.com/CatInTheHat-haway/OSCNANOFAB/blob/fd16a168c157c6a17e9fc2b63290387e1afbfa31/Spin%20Coater%20(8th%20floor))
+[Spin Coater](https://github.com/CatInTheHat-haway/OSCNANOFAB/blob/main/Spin_Coater.md)
 
 7th floor: 
 
-[SEM](https://github.com/CatInTheHat-haway/OSCNANOFAB/blob/fd16a168c157c6a17e9fc2b63290387e1afbfa31/SEM%20(7th%20floor))
+[SEM](https://github.com/CatInTheHat-haway/OSCNANOFAB/blob/main/SEM.md)
 
-[Temescal](https://github.com/CatInTheHat-haway/OSCNANOFAB/blob/beff16306243bb7b9544f57fe5cf92113c06103d/Temescal%20(7th%20floor))
+[Temescal](https://github.com/CatInTheHat-haway/OSCNANOFAB/blob/main/Temescal.md)
 
 
 
 Experimental Process: 
 
-[Pinholes](https://github.com/CatInTheHat-haway/OSCNANOFAB/blob/6600b89273300cb499dae4b04414990c92d26027/pinholes_1550nm)
+[Pinholes](https://github.com/CatInTheHat-haway/OSCNANOFAB/blob/main/pinholes_1550nm.md)
 
 [SCC]()
