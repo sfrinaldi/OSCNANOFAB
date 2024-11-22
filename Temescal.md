@@ -14,7 +14,7 @@ Auto menu -> recipe -> select foler
 
   Standards-> Aluminum: Al.REC
   
-    edit deposition step to change thickness -> save changes 
+  edit deposition step to change thickness -> save changes 
     
   select recipe -> recipe -> *START* 
   
