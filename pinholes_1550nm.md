@@ -102,8 +102,8 @@ Multi‐pinhole mask fabrication for 1550 nm light
 * Time —> 5 mins
 
 **SEM**
- Image + characterize roughness 
-Vent chamber —> "air" (top right)
+*Image + characterize roughness 
+*Vent chamber —> "air" (top right)
  Take sample to holder 
  Specimen settings 
  Following instructions 
@@ -111,12 +111,12 @@ Vent chamber —> "air" (top right)
  Diameter of sample —> ~50mm
  Enter size + height + "stage move"
  "Ok"
- EVAC —> top right
+ *EVAC —> top right
  Beep: HV on
  Aperture —> 
  Condition
  Check vacuum state 
- HVAC ON —> top left 
+ *HVAC ON —> top left 
  Condition -> electron beam
 Vaca —> 5kV, 10 kV
  ABCC —> auto contrast 
